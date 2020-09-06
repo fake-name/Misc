@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name RF_Module)(type KiCad)(uri C:/code/kicad/kicad-footprints/RF_Module.pretty)(options "")(descr ""))
+  (lib (name Package_TO_SOT_SMD)(type KiCad)(uri C:/code/kicad/kicad-footprints/Package_TO_SOT_SMD.pretty)(options "")(descr ""))
+  (lib (name Connector_Pin)(type KiCad)(uri C:/code/kicad/kicad-footprints/Connector_Pin.pretty)(options "")(descr ""))
+  (lib (name Connector_Molex)(type KiCad)(uri C:/code/kicad/kicad-footprints/Connector_Molex.pretty)(options "")(descr ""))
+  (lib (name Package_LGA)(type KiCad)(uri C:/code/kicad/kicad-footprints/Package_LGA.pretty)(options "")(descr ""))
+  (lib (name Connector_JST)(type KiCad)(uri C:/code/kicad/kicad-footprints/Connector_JST.pretty)(options "")(descr ""))
+  (lib (name Connector_RJ)(type KiCad)(uri C:/code/kicad/kicad-footprints/Connector_RJ.pretty)(options "")(descr ""))
+)

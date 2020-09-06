@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Energy Monitor - Sensor PCB")(type KiCad)(uri "${KIPRJMOD}/Energy Monitor - Sensor PCB.pretty")(options "")(descr ""))
+  (lib (name Package_TO_SOT_SMD)(type KiCad)(uri C:/code/kicad/kicad-footprints/Package_TO_SOT_SMD.pretty)(options "")(descr ""))
+)

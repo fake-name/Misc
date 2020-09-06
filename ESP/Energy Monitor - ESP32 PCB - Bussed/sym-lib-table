@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 74xGxx)(type Legacy)(uri C:/code/kicad/kicad-symbols/74xGxx.lib)(options "")(descr ""))
+  (lib (name 74xx)(type Legacy)(uri C:/code/kicad/kicad-symbols/74xx.lib)(options "")(descr ""))
+)

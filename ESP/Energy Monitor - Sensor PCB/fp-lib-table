@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Energy Monitor - Sensor PCB")(type KiCad)(uri "${KIPRJMOD}/Energy Monitor - Sensor PCB.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,139 @@
+27176565281873
+custom
+12864-DISP-I2C
+
+
+0
+8
+5
+custom
+12864-DISP-SPI
+
+
+0
+11
+8
+custom
+AHI050-TH
+
+
+0
+8
+8
+custom
+CHIPLED_0603
+<b>CHIPLED</b><p>
+Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf
+							
+
+0
+2
+2
+custom
+CRYSTAL-SMD-3.2X2.5MM
+<h3>3.2 x 2.5mm SMD Crystal Package</h3>
+<p>Example: <a href="http://www.digikey.com/product-search/en?keywords=SER3627TR-ND">SX-32S</a></p>
+							
+
+0
+4
+4
+custom
+CUI_PJ-002AH-SMT-TR
+
+
+0
+4
+4
+custom
+CUI_SJ2-35813B-SMT-TR
+
+
+0
+18
+4
+custom
+EI30-15.5-TH
+
+
+0
+4
+4
+custom
+ESP32-CAM
+
+
+0
+16
+16
+custom
+ESP32-POE
+
+
+0
+20
+20
+custom
+K2-1823SA-A4DW-06
+Korean Hroparts Elec K2-1823SA-A4DW-06 RA SMT Push-Button Switch
+
+0
+2
+2
+custom
+OSHW-LOGO-S
+<h3>Open-Source Hardware (OSHW) Logo - Small - Silkscreen</h3>
+<p>Silkscreen logo for open-source hardware designs.</p>
+<p>Devices using:
+<ul><li>OSHW_LOGO</li></ul></p>
+							
+
+0
+0
+0
+custom
+PJ-3270
+
+
+0
+5
+5
+custom
+QFP50P900X900X120-48
+								48-QFP, 0.50 mm pitch, 9.00 mm span, 7.00 X 7.00 X 1.20 mm body
+<p>48-pin QFP package with 0.50 mm pitch, 9.00 mm lead span1 X 9.00 mm lead span2 with body size 7.00 X 7.00 X 1.20 mm</p>
+							
+
+0
+48
+48
+custom
+SCREWTERMINAL-3.5MM-2
+<h3>Screw Terminal  3.5mm Pitch - 2 Pin PTH</h3>
+<p>Specifications:
+<ul><li>Pin count: 2</li>
+<li>Pin pitch: 3.5mm/138mil</li>
+</ul></p>
+<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf”>Datasheet referenced for footprint</a></p>
+<p>Example device(s):
+<ul><li>CONN_02</li>
+</ul></p>
+							
+
+0
+2
+2
+custom
+VXO78x-500-M
+
+
+0
+4
+4
+custom
+WE 691411410002 - 2 Pin Wire-To-Board Terminal Block
+
+
+0
+4
+2

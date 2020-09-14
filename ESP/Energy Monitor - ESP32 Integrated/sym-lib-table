@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name 74xx)(type Legacy)(uri C:/code/kicad/kicad-symbols/74xx.lib)(options "")(descr ""))
+  (lib (name 4xxx)(type Legacy)(uri C:/code/kicad/kicad-symbols/4xxx.lib)(options "")(descr ""))
+  (lib (name ESP32-PoE_Rev_C)(type Legacy)(uri ${KIPRJMOD}/ESP32-PoE_Rev_C.lib)(options "")(descr ""))
+  (lib (name RF_Module)(type Legacy)(uri C:/code/kicad/kicad-symbols/RF_Module.lib)(options "")(descr ""))
+  (lib (name Interface_USB)(type Legacy)(uri C:/code/kicad/kicad-symbols/Interface_USB.lib)(options "")(descr ""))
+  (lib (name Interface_Expansion)(type Legacy)(uri C:/code/kicad/kicad-symbols/Interface_Expansion.lib)(options "")(descr ""))
+)

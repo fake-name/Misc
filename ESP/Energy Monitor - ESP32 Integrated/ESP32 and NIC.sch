@@ -465,20 +465,6 @@ Text Label 8200 7100 0    39   ~ 0
 GPIO21/EMAC_TX_EN(RMII)
 Text Notes 2800 11600 0    150  Italic 0
 The PHY is setted up as follows:\nMODE: All capable(10/100Base)\n-Auto-negotiation enabled\n-RMII Configuration\n-SMI address: 0x00
-$Comp
-L Device:C_Small C17
-U 1 1 58265411
-P 1050 9900
-F 0 "C17" H 1141 9931 50  0000 L CNN
-F 1 "1nF/2000V/10%/X7R/C1206" H 1141 9854 31  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 1050 9900 60  0001 C CNN
-F 3 "" H 1050 9900 60  0000 C CNN
-F 4 "Value 1" H 1050 9900 60  0001 C CNN "Fieldname 1"
-F 5 "Value2" H 1050 9900 60  0001 C CNN "Fieldname2"
-F 6 "Value3" H 1050 9900 60  0001 C CNN "Fieldname3"
-	1    1050 9900
-	-1   0    0    -1  
-$EndComp
 Text Notes 10350 12350 0    79   ~ 16
 Software Selectable Pins
 Text Notes 10875 12550 0    59   ~ 0
@@ -868,12 +854,6 @@ Wire Wire Line
 	5800 3100 5800 3500
 Wire Notes Line
 	15905 12565 15905 13715
-Wire Wire Line
-	2900 8800 4300 8800
-Wire Wire Line
-	2900 9000 4600 9000
-Wire Wire Line
-	2900 8900 4300 8900
 Wire Wire Line
 	4800 7400 4800 7000
 Connection ~ 4800 7000
@@ -2447,57 +2427,10 @@ F 3 "" H 12200 6100 60  0000 C CNN
 	1    12200 6100
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:RJ45_Amphenol_RJMG1BD3B8K1ANR J13
-U 1 1 626EA2C4
-P 2000 9300
-F 0 "J13" H 2000 10025 50  0000 C CNN
-F 1 "RJ45_Amphenol_RJMG1BD3B8K1ANR" H 2000 9934 50  0000 C CNN
-F 2 "Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR" H 2000 10000 50  0001 C CNN
-F 3 "https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF" H 2000 10100 50  0001 C CNN
-	1    2000 9300
-	-1   0    0    -1  
-$EndComp
-Wire Wire Line
-	1050 10200 1050 10000
-Wire Wire Line
-	1050 9700 1100 9700
-Wire Wire Line
-	1050 9800 1050 9700
-Wire Wire Line
-	2000 10200 2000 10000
-Connection ~ 4300 8800
-Wire Wire Line
-	4300 8800 4300 8900
-$Comp
-L power:GND #PWR0112
-U 1 1 627D1510
-P 2000 10200
-F 0 "#PWR0112" H 2000 9950 50  0001 C CNN
-F 1 "GND" H 2000 10050 50  0000 C CNN
-F 2 "" H 2000 10200 60  0000 C CNN
-F 3 "" H 2000 10200 60  0000 C CNN
-	1    2000 10200
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0113
-U 1 1 627E5745
-P 1050 10200
-F 0 "#PWR0113" H 1050 9950 50  0001 C CNN
-F 1 "GND" H 1050 10050 50  0000 C CNN
-F 2 "" H 1050 10200 60  0000 C CNN
-F 3 "" H 1050 10200 60  0000 C CNN
-	1    1050 10200
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	2900 9800 2950 9800
 Wire Wire Line
 	2950 9800 2950 9850
-Connection ~ 4300 8900
-Wire Wire Line
-	4300 8900 4300 9200
 Connection ~ 4300 9200
 Wire Wire Line
 	4300 9200 4300 9750
@@ -2505,24 +2438,10 @@ Connection ~ 4400 9300
 Connection ~ 4500 9100
 Wire Wire Line
 	4500 9100 4500 9200
-Connection ~ 4600 9000
-Wire Wire Line
-	4600 9000 4600 9100
-Connection ~ 4700 8800
-Wire Wire Line
-	4700 8800 4700 9000
-Wire Wire Line
-	4300 8800 4700 8800
-Wire Wire Line
-	4300 7700 4300 8800
 Wire Wire Line
 	4400 7700 4400 9300
 Wire Wire Line
 	4500 7700 4500 9100
-Wire Wire Line
-	4600 7700 4600 9000
-Wire Wire Line
-	4700 7700 4700 8800
 Wire Wire Line
 	5800 9700 5800 8800
 Wire Wire Line
@@ -2604,7 +2523,7 @@ Text Label 5200 7000 0    50   ~ 0
 PHY_VDDA
 Text Label 5500 7400 0    50   ~ 0
 PHY_VDDCR
-Text Label 4300 8750 1    50   ~ 0
+Text Label 4300 8650 1    50   ~ 0
 PHY_CT
 $Comp
 L Device:R_Small R36
@@ -2881,4 +2800,88 @@ Wire Wire Line
 	13900 9500 13900 3800
 Wire Wire Line
 	13900 3800 13000 3800
+Text Label 3250 9100 0    50   ~ 0
+RXP
+Text Label 3250 9300 0    50   ~ 0
+RXN
+$Comp
+L power:GND #PWR0113
+U 1 1 627E5745
+P 1050 10200
+F 0 "#PWR0113" H 1050 9950 50  0001 C CNN
+F 1 "GND" H 1050 10050 50  0000 C CNN
+F 2 "" H 1050 10200 60  0000 C CNN
+F 3 "" H 1050 10200 60  0000 C CNN
+	1    1050 10200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 9800 1050 9700
+Wire Wire Line
+	1050 9700 1100 9700
+Wire Wire Line
+	1050 10200 1050 10000
+$Comp
+L Device:C_Small C17
+U 1 1 58265411
+P 1050 9900
+F 0 "C17" H 1141 9931 50  0000 L CNN
+F 1 "1nF/2000V/10%/X7R/C1206" H 1141 9854 31  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 1050 9900 60  0001 C CNN
+F 3 "" H 1050 9900 60  0000 C CNN
+F 4 "Value 1" H 1050 9900 60  0001 C CNN "Fieldname 1"
+F 5 "Value2" H 1050 9900 60  0001 C CNN "Fieldname2"
+F 6 "Value3" H 1050 9900 60  0001 C CNN "Fieldname3"
+	1    1050 9900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 627D1510
+P 2000 10200
+F 0 "#PWR0112" H 2000 9950 50  0001 C CNN
+F 1 "GND" H 2000 10050 50  0000 C CNN
+F 2 "" H 2000 10200 60  0000 C CNN
+F 3 "" H 2000 10200 60  0000 C CNN
+	1    2000 10200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 10200 2000 10000
+Wire Wire Line
+	4600 9000 4600 9100
+Connection ~ 4600 9000
+Wire Wire Line
+	4600 7700 4600 9000
+Text Label 3250 9000 0    50   ~ 0
+TXN
+Wire Wire Line
+	2900 9000 4600 9000
+Wire Wire Line
+	4300 8900 4300 9200
+Connection ~ 4300 8900
+Wire Wire Line
+	4300 7700 4300 8900
+Wire Wire Line
+	2900 8900 4300 8900
+Wire Wire Line
+	4700 8800 4700 9000
+Connection ~ 4700 8800
+Wire Wire Line
+	4700 7700 4700 8800
+Text Label 3250 8800 0    50   ~ 0
+TXP
+Wire Wire Line
+	4700 8800 2900 8800
+$Comp
+L Connector:RJ45_Amphenol_RJMG1BD3B8K1ANR J13
+U 1 1 626EA2C4
+P 2000 9300
+F 0 "J13" H 2000 10025 50  0000 C CNN
+F 1 "RJ45_Amphenol_RJMG1BD3B8K1ANR" H 2000 9934 50  0000 C CNN
+F 2 "Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR" H 2000 10000 50  0001 C CNN
+F 3 "https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF" H 2000 10100 50  0001 C CNN
+	1    2000 9300
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC

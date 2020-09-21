@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Switch)(type Legacy)(uri C:/code/kicad/kicad-symbols/Switch.lib)(options "")(descr ""))
+  (lib (name Regulator_Linear)(type Legacy)(uri C:/code/kicad/kicad-symbols/Regulator_Linear.lib)(options "")(descr ""))
+  (lib (name Sensor_Temperature)(type Legacy)(uri C:/code/kicad/kicad-symbols/Sensor_Temperature.lib)(options "")(descr ""))
+)

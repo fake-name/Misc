@@ -2244,4 +2244,6 @@ NoConn ~ 1550 3250
 NoConn ~ 8300 3050
 Text Notes 5650 3150 0    50   ~ 0
 J5, J6 are backwards!\nPlantower numbers the connecor \nin their modules in reverse from the \nconnector manufacturer!\nEither place connectors backwards, or \nrewire cable to be crossover.
+Text Notes 7800 4800 0    50   ~ 0
+R19 breaks boot (it switches the \nflash to 1.8V mode by pulling GPIO12 \nhigh at boot).\nRemove R19 and do not use J8
 $EndSCHEMATC

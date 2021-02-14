@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Regulator_Switching)(type Legacy)(uri C:/code/kicad/kicad-symbols/Regulator_Switching.lib)(options "")(descr ""))
+)

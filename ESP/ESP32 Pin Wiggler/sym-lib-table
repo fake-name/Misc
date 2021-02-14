@@ -2,5 +2,6 @@
   (lib (name Switch)(type Legacy)(uri C:/code/kicad/kicad-symbols/Switch.lib)(options "")(descr ""))
   (lib (name Regulator_Linear)(type Legacy)(uri C:/code/kicad/kicad-symbols/Regulator_Linear.lib)(options "")(descr ""))
   (lib (name Sensor_Temperature)(type Legacy)(uri C:/code/kicad/kicad-symbols/Sensor_Temperature.lib)(options "")(descr ""))
-  (lib (name ESP32-CAM-PSU-rescue)(type Legacy)(uri "${KIPRJMOD}/ESP32-CAM PSU-rescue.lib")(options "")(descr ""))
+  (lib (name RF_Module)(type Legacy)(uri C:/code/kicad/kicad-symbols/RF_Module.lib)(options "")(descr ""))
+  (lib (name Interface_USB)(type Legacy)(uri C:/code/kicad/kicad-symbols/Interface_USB.lib)(options "")(descr ""))
 )

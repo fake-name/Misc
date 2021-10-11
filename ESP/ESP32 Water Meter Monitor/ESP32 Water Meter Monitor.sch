@@ -166,7 +166,7 @@ Connection ~ 1850 950
 Wire Wire Line
 	1650 950  1850 950 
 $Comp
-L Device:CP1 C7
+L ESP32-Water-Meter-Monitor-rescue:CP1-Device C7
 U 1 1 5F5C3C2C
 P 1850 1150
 F 0 "C7" H 1965 1196 50  0000 L CNN
@@ -337,7 +337,7 @@ F 3 "~" H 3100 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ESP32-Water-Meter-Monitor-rescue:XL2001-custom U2
+L ESP32-Water-Meter-Monitor-rescue:XL2001-custom-ESP32-Water-Meter-Monitor-rescue U2
 U 1 1 5F554CA0
 P 3750 950
 F 0 "U2" H 3725 1215 50  0000 C CNN
@@ -418,7 +418,7 @@ Connection ~ 2300 950
 Wire Wire Line
 	2300 1000 2300 950 
 $Comp
-L Device:CP1 C4
+L ESP32-Water-Meter-Monitor-rescue:CP1-Device C4
 U 1 1 5F541A1E
 P 5900 1150
 F 0 "C4" H 6015 1196 50  0000 L CNN
@@ -429,7 +429,7 @@ F 3 "~" H 5900 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1 C1
+L ESP32-Water-Meter-Monitor-rescue:CP1-Device C1
 U 1 1 5F5409F2
 P 2300 1150
 F 0 "C1" H 2415 1196 50  0000 L CNN
@@ -527,7 +527,7 @@ U 1 1 5F5332E2
 P 700 1350
 F 0 "J1" H 618 1025 50  0000 C CNN
 F 1 "Conn_01x02" H 618 1116 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 700 1350 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical" H 700 1350 50  0001 C CNN
 F 3 "~" H 700 1350 50  0001 C CNN
 	1    700  1350
 	-1   0    0    1   
@@ -554,7 +554,7 @@ F 3 "~" H 1750 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1 C10
+L ESP32-Water-Meter-Monitor-rescue:CP1-Device C10
 U 1 1 5F5AA457
 P 2450 2450
 F 0 "C10" H 2565 2496 50  0000 L CNN
@@ -1128,7 +1128,7 @@ SDA_EXT
 Wire Wire Line
 	8550 4050 8950 4050
 $Comp
-L ESP32-Water-Meter-Monitor-rescue:0.96"-SSD1306-DISP-I2C-custom LCD1
+L ESP32-Water-Meter-Monitor-rescue:0.96"-SSD1306-DISP-I2C-custom-ESP32-Water-Meter-Monitor-rescue LCD1
 U 1 1 5F67CC7A
 P 7650 2550
 F 0 "LCD1" H 7473 2550 50  0000 R CNN
@@ -1193,7 +1193,7 @@ Wire Wire Line
 	8550 4150 8150 4150
 Connection ~ 8550 4150
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D3
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D3
 U 1 1 5F7001C7
 P 10350 4050
 F 0 "D3" V 10396 4130 50  0000 L CNN
@@ -1215,7 +1215,7 @@ F 3 "" H 10350 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D2
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D2
 U 1 1 5F7083BC
 P 10050 4500
 F 0 "D2" V 10096 4580 50  0000 L CNN
@@ -1482,7 +1482,7 @@ Wire Wire Line
 Wire Wire Line
 	5200 4250 6650 4250
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D4
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D4
 U 1 1 5FB0D1DF
 P 5500 6850
 F 0 "D4" V 5546 6930 50  0000 L CNN
@@ -1626,7 +1626,7 @@ F 3 "" H 8750 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D11
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D11
 U 1 1 5FAF3874
 P 8750 6150
 F 0 "D11" V 8796 6230 50  0000 L CNN
@@ -1741,7 +1741,7 @@ F 3 "" H 7150 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D10
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D10
 U 1 1 5FA97C30
 P 8350 6150
 F 0 "D10" V 8396 6230 50  0000 L CNN
@@ -1752,7 +1752,7 @@ F 3 "~" H 8350 6150 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D9
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D9
 U 1 1 5FA97743
 P 7950 6150
 F 0 "D9" V 7996 6230 50  0000 L CNN
@@ -1763,7 +1763,7 @@ F 3 "~" H 7950 6150 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D6
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D6
 U 1 1 5FA96DAB
 P 7550 6150
 F 0 "D6" V 7596 6230 50  0000 L CNN
@@ -1774,7 +1774,7 @@ F 3 "~" H 7550 6150 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D5
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D5
 U 1 1 5FA95DD8
 P 7150 6150
 F 0 "D5" V 7196 6230 50  0000 L CNN
@@ -1845,7 +1845,7 @@ Wire Wire Line
 	3050 3950 3050 4050
 Connection ~ 4900 3950
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D15
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D15
 U 1 1 5F6D6FF1
 P 9200 6150
 F 0 "D15" V 9246 6230 50  0000 L CNN
@@ -1878,7 +1878,7 @@ F 3 "" H 9200 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Schottky_x2_Serial_AKC D14
+L ESP32-Water-Meter-Monitor-rescue:D_Schottky_x2_Serial_AKC-Device D14
 U 1 1 5F6E7F2B
 P 5100 7150
 F 0 "D14" V 5146 7230 50  0000 L CNN

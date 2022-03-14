@@ -98,17 +98,6 @@ Text Label 3950 2600 0    50   ~ 0
 RXD
 Text Label 3000 5550 0    50   ~ 0
 PROG
-$Comp
-L RF_Module:ESP32-WROOM-32D U1
-U 1 1 5F547F90
-P 2150 4150
-F 0 "U1" H 2350 5550 50  0000 C CNN
-F 1 "ESP32-WROOM-32D" H 1600 2750 50  0000 C CNN
-F 2 "RF_Module:ESP32-WROOM-32" H 2150 2650 50  0001 C CNN
-F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf" H 1850 4200 50  0001 C CNN
-	1    2150 4150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2150 5800 2150 5550
 $Comp
@@ -872,17 +861,6 @@ F 3 "~" H 1200 6700 50  0001 C CNN
 $EndComp
 NoConn ~ 4900 2700
 $Comp
-L Connector_Generic:Conn_01x08 J5
-U 1 1 5F66642C
-P 6400 3850
-F 0 "J5" H 6480 3796 50  0000 L CNN
-F 1 "Conn_01x08" H 6480 3751 50  0001 L CNN
-F 2 "Connector_Molex:Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical" H 6480 3705 50  0001 L CNN
-F 3 "~" H 6400 3850 50  0001 C CNN
-	1    6400 3850
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR06
 U 1 1 5F6683F6
 P 6150 3500
@@ -941,13 +919,13 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x08 J6
 U 1 1 5F67C133
-P 7250 3850
-F 0 "J6" H 7330 3796 50  0000 L CNN
-F 1 "Conn_01x08" H 7330 3751 50  0001 L CNN
-F 2 "Connector_Molex:Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical" H 7330 3705 50  0001 L CNN
-F 3 "~" H 7250 3850 50  0001 C CNN
-	1    7250 3850
-	1    0    0    -1  
+P 7250 3950
+F 0 "J6" H 7330 3896 50  0000 L CNN
+F 1 "Conn_01x08" H 7330 3851 50  0001 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical" H 7330 3805 50  0001 L CNN
+F 3 "~" H 7250 3950 50  0001 C CNN
+	1    7250 3950
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	7050 3650 7000 3650
@@ -958,12 +936,12 @@ NoConn ~ 6200 4150
 NoConn ~ 7050 4250
 NoConn ~ 7050 4150
 Wire Wire Line
-	7050 4050 6200 4050
+	7050 4050 6600 4050
 Connection ~ 6200 4050
 Wire Wire Line
 	6200 4050 6050 4050
 Wire Wire Line
-	7050 3750 6200 3750
+	7050 3750 6600 3750
 Connection ~ 6200 3750
 Wire Wire Line
 	6200 3750 6100 3750
@@ -1538,8 +1516,6 @@ Wire Wire Line
 	8150 5500 8400 5500
 Connection ~ 8400 5500
 Wire Wire Line
-	2750 3550 3450 3550
-Wire Wire Line
 	9500 5650 9600 5650
 Connection ~ 9600 5650
 Connection ~ 3650 4350
@@ -1547,10 +1523,6 @@ Wire Wire Line
 	3650 4350 4050 4350
 Wire Wire Line
 	2750 4350 3650 4350
-Wire Wire Line
-	2750 3650 3350 3650
-Wire Wire Line
-	3350 3650 3350 5050
 Wire Wire Line
 	9600 5400 9850 5400
 Connection ~ 9850 5400
@@ -1848,16 +1820,12 @@ Wire Wire Line
 Wire Wire Line
 	5700 5950 5700 6400
 Wire Wire Line
-	3250 5150 5800 5150
-Wire Wire Line
 	5800 5150 5800 5850
 Connection ~ 5800 5850
 Wire Wire Line
 	5800 5850 6000 5850
 Wire Wire Line
 	5700 5950 5700 5250
-Wire Wire Line
-	5700 5250 3150 5250
 Connection ~ 5700 5950
 Wire Wire Line
 	3050 5350 3900 5350
@@ -1867,8 +1835,6 @@ Connection ~ 3900 6700
 Wire Wire Line
 	3900 6700 3950 6700
 Wire Wire Line
-	3450 3550 3450 4950
-Wire Wire Line
 	3950 3900 3950 4450
 Connection ~ 3950 4450
 Wire Wire Line
@@ -1876,17 +1842,9 @@ Wire Wire Line
 Wire Wire Line
 	2750 4450 3950 4450
 Wire Wire Line
-	2750 4850 3150 4850
-Wire Wire Line
-	3150 4850 3150 5250
-Wire Wire Line
 	3050 4650 2750 4650
 Wire Wire Line
 	3050 4650 3050 5350
-Wire Wire Line
-	2750 4750 3250 4750
-Wire Wire Line
-	3250 4750 3250 4950
 $Comp
 L Device:D_Schottky_x2_Serial_AKC D5
 U 1 1 5FD41D06
@@ -2233,8 +2191,6 @@ NoConn ~ 4250 6500
 NoConn ~ 4250 6600
 NoConn ~ 4250 6900
 NoConn ~ 4250 7000
-NoConn ~ 2750 5250
-NoConn ~ 2750 5150
 NoConn ~ 2750 5050
 NoConn ~ 2750 4950
 NoConn ~ 2750 3750
@@ -2242,19 +2198,44 @@ NoConn ~ 2750 3850
 NoConn ~ 1550 3150
 NoConn ~ 1550 3250
 NoConn ~ 8300 3050
-Text Notes 5650 3150 0    50   ~ 0
-J5, J6 are backwards!\nPlantower numbers the connecor \nin their modules in reverse from the \nconnector manufacturer!\nEither place connectors backwards, or \nrewire cable to be crossover.
-Text Notes 7800 4800 0    50   ~ 0
-R19 breaks boot (it switches the \nflash to 1.8V mode by pulling GPIO12 \nhigh at boot).\nRemove R19 and do not use J8
-Text Label 3500 5350 0    50   ~ 0
-RAIN_GAUGE
-Text Label 3500 5150 0    50   ~ 0
-WIND_DIR
-Text Label 3500 5250 0    50   ~ 0
-WIND_PULSE
+$Comp
+L RF_Module:ESP32-WROOM-32D U1
+U 1 1 5F547F90
+P 2150 4150
+F 0 "U1" H 2350 5550 50  0000 C CNN
+F 1 "ESP32-WROOM-32D" H 1600 2750 50  0000 C CNN
+F 2 "RF_Module:ESP32-WROOM-32" H 2150 2650 50  0001 C CNN
+F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf" H 1850 4200 50  0001 C CNN
+	1    2150 4150
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	2750 4950 3250 4950
-Connection ~ 3250 4950
+	2750 5250 5700 5250
 Wire Wire Line
-	3250 4950 3250 5150
+	2750 5150 5800 5150
+Wire Wire Line
+	2750 4750 3450 4750
+Wire Wire Line
+	3450 4750 3450 4950
+Wire Wire Line
+	2750 4850 3350 4850
+Wire Wire Line
+	3350 4850 3350 5050
+Connection ~ 6600 4050
+Wire Wire Line
+	6600 4050 6200 4050
+Connection ~ 6600 3750
+Wire Wire Line
+	6600 3750 6200 3750
+$Comp
+L Connector_Generic:Conn_01x08 J5
+U 1 1 5F66642C
+P 6400 3950
+F 0 "J5" H 6480 3896 50  0000 L CNN
+F 1 "Conn_01x08" H 6480 3851 50  0001 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical" H 6480 3805 50  0001 L CNN
+F 3 "~" H 6400 3950 50  0001 C CNN
+	1    6400 3950
+	1    0    0    1   
+$EndComp
 $EndSCHEMATC

@@ -1138,7 +1138,7 @@
     (property "Value" "SS36" (id 1) (at 148.082 97.663 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 146.05 96.52 0)
+    (property "Footprint" "Diode_SMD:D_SMC" (id 2) (at 146.05 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 146.05 96.52 0)

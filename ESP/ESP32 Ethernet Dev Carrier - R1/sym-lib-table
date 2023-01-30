@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ESP32-WROVER-B__16MB_")(type "KiCad")(uri "C:/code/Misc/KiCad Lib/ESP32-WROVER-B__16MB_.kicad_sym")(options "")(descr ""))
+)

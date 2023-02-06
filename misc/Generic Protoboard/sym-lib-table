@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Main-SchDoc-rescue")(type "Legacy")(uri "${KIPRJMOD}/Main-SchDoc-rescue.lib")(options "")(descr ""))
+)

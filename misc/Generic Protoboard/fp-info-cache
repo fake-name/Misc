@@ -1,0 +1,1177 @@
+4811374530015745
+Connector_IDC
+IDC-Header_2x03_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x03 2.54mm double row
+0
+6
+6
+Connector_IDC
+IDC-Header_2x04_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x04, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x04 2.54mm double row
+0
+8
+8
+Connector_IDC
+IDC-Header_2x05_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x05 2.54mm double row
+0
+10
+10
+Connector_IDC
+IDC-Header_2x06_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x06 2.54mm double row
+0
+12
+12
+Connector_IDC
+IDC-Header_2x07_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x07 2.54mm double row
+0
+14
+14
+Connector_IDC
+IDC-Header_2x08_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x08 2.54mm double row
+0
+16
+16
+Connector_IDC
+IDC-Header_2x10_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x10 2.54mm double row
+0
+20
+20
+Connector_IDC
+IDC-Header_2x12_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x12 2.54mm double row
+0
+24
+24
+Connector_IDC
+IDC-Header_2x13_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x13 2.54mm double row
+0
+26
+26
+Connector_IDC
+IDC-Header_2x20_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x20 2.54mm double row
+0
+40
+40
+Connector_IDC
+IDC-Header_2x25_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x25 2.54mm double row
+0
+50
+50
+Connector_IDC
+IDC-Header_2x30_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x30 2.54mm double row
+0
+60
+60
+Inductor_SMD
+L_Chilisin_BMRA00050520
+Inductor, Chilisin, BMRA00050520, 5.7x5.4x1.8mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRA00050530
+Inductor, Chilisin, BMRA00050530, 5.7x5.4x3.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00060612
+Inductor, Chilisin, BMRB00060612, 7.3x6.6x1.2mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00060618
+Inductor, Chilisin, BMRB00060618, 7.3x6.6x1.6mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00060624
+Inductor, Chilisin, BMRB00060624, 7.3x6.6x2.4mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00060650
+Inductor, Chilisin, BMRB00060650, 7.3x6.6x5.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRF00101040
+Inductor, Chilisin, BMRF00101040, 11.6x10.1x4.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRF00131350
+Inductor, Chilisin, BMRF00131350, 13.8x12.6x5.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRF00131360
+Inductor, Chilisin, BMRF00131360, 13.8x12.6x5.8mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRF00171770
+Inductor, Chilisin, BMRF00171770, 17.15x17.15x6.8mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRG00101030
+Inductor, Chilisin, BMRG00101030, 11.6x10.1x3.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRG00131360
+Inductor, Chilisin, BMRG00131360, 13.8x12.6x6.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRx00060615
+Inductor, Chilisin, BMRx00060615, 7.3x6.6x1.3mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRx00060630
+Inductor, Chilisin, BMRx00060630, 7.3x6.6x3.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0402S
+Inductor, Sunlord, MWSA0402S, 4.4x4.2x1.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0412S
+Inductor, Sunlord, MWSA0412S, 4.4x4.2x1.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0503S
+Inductor, Sunlord, MWSA0503S, 5.4x5.2x2.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0518S
+Inductor, Sunlord, MWSA0518S, 5.4x5.2x1.6mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0602S
+Inductor, Sunlord, MWSA0602S, 7.0x6.6x1.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0603S
+Inductor, Sunlord, MWSA0603S, 7.0x6.6x2.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0604S
+Inductor, Sunlord, MWSA0604S, 7.0x6.6x3.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0605S
+Inductor, Sunlord, MWSA0605S, 7.0x6.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0615S
+Inductor, Sunlord, MWSA0615S, 7.0x6.6x1.3mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0618S
+Inductor, Sunlord, MWSA0618S, 7.0x6.6x1.6mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0624S
+Inductor, Sunlord, MWSA0624S, 7.0x6.6x2.2mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0804S
+Inductor, Sunlord, MWSA0804S, 8.2x8.8x3.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1003S
+Inductor, Sunlord, MWSA1003S, 11.5x10.0x2.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1004S
+Inductor, Sunlord, MWSA1004S, 11.0x10.0x3.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1005S
+Inductor, Sunlord, MWSA1005S, 11.5x10.0x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-1R0
+Inductor, Sunlord, MWSA1204S-1R0, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-1R5
+Inductor, Sunlord, MWSA1204S-1R5, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-2R2
+Inductor, Sunlord, MWSA1204S-2R2, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-3R3
+Inductor, Sunlord, MWSA1204S-3R3, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-4R7
+Inductor, Sunlord, MWSA1204S-4R7, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-6R8
+Inductor, Sunlord, MWSA1204S-6R8, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-100
+Inductor, Sunlord, MWSA1204S-100, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-150
+Inductor, Sunlord, MWSA1204S-150, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-220
+Inductor, Sunlord, MWSA1204S-220, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-R22
+Inductor, Sunlord, MWSA1204S-R22, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-R47
+Inductor, Sunlord, MWSA1204S-R47, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-R68
+Inductor, Sunlord, MWSA1204S-R68, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1204S-R82
+Inductor, Sunlord, MWSA1204S-R82, 13.45x12.8x4.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-1R0
+Inductor, Sunlord, MWSA1205S-1R0, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-1R5
+Inductor, Sunlord, MWSA1205S-1R5, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-2R2
+Inductor, Sunlord, MWSA1205S-2R2, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-3R3
+Inductor, Sunlord, MWSA1205S-3R3, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-4R7
+Inductor, Sunlord, MWSA1205S-4R7, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-6R8
+Inductor, Sunlord, MWSA1205S-6R8, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-100
+Inductor, Sunlord, MWSA1205S-100, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-150
+Inductor, Sunlord, MWSA1205S-150, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-220
+Inductor, Sunlord, MWSA1205S-220, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-330
+Inductor, Sunlord, MWSA1205S-330, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-470
+Inductor, Sunlord, MWSA1205S-470, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-R22
+Inductor, Sunlord, MWSA1205S-R22, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-R36
+Inductor, Sunlord, MWSA1205S-R36, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-R50
+Inductor, Sunlord, MWSA1205S-R50, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-R68
+Inductor, Sunlord, MWSA1205S-R68, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1205S-R82
+Inductor, Sunlord, MWSA1205S-R82, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-1R5
+Inductor, Sunlord, MWSA1206S-1R5, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-2R2
+Inductor, Sunlord, MWSA1206S-2R2, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-3R3
+Inductor, Sunlord, MWSA1206S-3R3, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-4R7
+Inductor, Sunlord, MWSA1206S-4R7, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-5R6
+Inductor, Sunlord, MWSA1206S-5R6, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-6R8
+Inductor, Sunlord, MWSA1206S-6R8, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-8R2
+Inductor, Sunlord, MWSA1206S-8R2, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-100
+Inductor, Sunlord, MWSA1206S-100, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-101
+Inductor, Sunlord, MWSA1206S-101, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-120
+Inductor, Sunlord, MWSA1206S-120, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-121
+Inductor, Sunlord, MWSA1206S-121, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-150
+Inductor, Sunlord, MWSA1206S-150, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-151
+Inductor, Sunlord, MWSA1206S-151, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-180
+Inductor, Sunlord, MWSA1206S-180, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-220
+Inductor, Sunlord, MWSA1206S-220, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-270
+Inductor, Sunlord, MWSA1206S-270, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-330
+Inductor, Sunlord, MWSA1206S-330, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-470
+Inductor, Sunlord, MWSA1206S-470, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-680
+Inductor, Sunlord, MWSA1206S-680, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1206S-R68
+Inductor, Sunlord, MWSA1206S-R68, 13.45x12.6x5.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1265S
+Inductor, Sunlord, MWSA1265S, 13.45x12.6x6.5mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA1707S
+Inductor, Sunlord, MWSA1707S, 17.15x17.15x6.7mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA2213S
+Inductor, Sunlord, MWSA2213S, 23.5x22.0x12.6mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en
+Inductor mwsa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA3010S
+Inductor, Sunlord, SWPA3010S, 3.0x3.0x1.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA3012S
+Inductor, Sunlord, SWPA3012S, 3.0x3.0x1.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA3015S
+Inductor, Sunlord, SWPA3015S, 3.0x3.0x1.5mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4010S
+Inductor, Sunlord, SWPA4010S, 4.0x4.0x1.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4012S
+Inductor, Sunlord, SWPA4012S, 4.0x4.0x1.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4018S
+Inductor, Sunlord, SWPA4018S, 4.0x4.0x1.8mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4020S
+Inductor, Sunlord, SWPA4020S, 4.0x4.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4026S
+Inductor, Sunlord, SWPA4026S, 4.0x4.0x2.6mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA4030S
+Inductor, Sunlord, SWPA4030S, 4.0x4.0x3.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA5012S
+Inductor, Sunlord, SWPA5012S, 5.0x5.0x1.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA5020S
+Inductor, Sunlord, SWPA5020S, 5.0x5.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA5040S
+Inductor, Sunlord, SWPA5040S, 5.0x5.0x4.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA6020S
+Inductor, Sunlord, SWPA6020S, 6.0x6.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA6028S
+Inductor, Sunlord, SWPA6028S, 6.0x6.0x2.8mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA6040S
+Inductor, Sunlord, SWPA6040S, 6.0x6.0x4.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA6045S
+Inductor, Sunlord, SWPA6045S, 6.0x6.0x4.5mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA8040S
+Inductor, Sunlord, SWPA8040S, 8.0x8.0x4.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA252010S
+Inductor, Sunlord, SWPA252010S, 2.5x2.0x1.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWPA252012S
+Inductor, Sunlord, SWPA252012S, 2.5x2.0x1.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf
+Inductor swpa
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWRB1204S
+Inductor, Sunlord, SWRB1204S, 12.5x12.5x5.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor swrb
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWRB1205S
+Inductor, Sunlord, SWRB1205S, 12.5x12.5x6.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor swrb
+0
+2
+2
+Inductor_SMD
+L_Sunlord_SWRB1207S
+Inductor, Sunlord, SWRB1207S, 12.5x12.5x8.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor swrb
+0
+2
+2
+Package_SO
+HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm
+HSOP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT1746-3.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+37
+33
+Package_SO
+HSOP-54-1EP_7.5x17.9mm_P0.65mm_EP4.6x4.6mm
+HSOP, 54 Pin (https://www.nxp.com/docs/en/package-information/98ASA10506D.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+59
+55
+Package_SO
+HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x2.98mm
+HTSSOP, 24 Pin (https://www.ti.com/lit/ds/symlink/tlc5949.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+27
+25
+Package_SO
+HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x2.98mm_ThermalVias
+HTSSOP, 24 Pin (https://www.ti.com/lit/ds/symlink/tlc5949.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+49
+25
+Package_SO
+TSOP-I-24_12.4x6mm_P0.5mm
+TSOP-I, 24 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+24
+24
+Package_SO
+TSOP-I-24_14.4x6mm_P0.5mm
+TSOP-I, 24 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+24
+24
+Package_SO
+TSOP-I-24_16.4x6mm_P0.5mm
+TSOP-I, 24 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation AC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+24
+24
+Package_SO
+TSOP-I-24_18.4x6mm_P0.5mm
+TSOP-I, 24 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation AD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+24
+24
+Package_SO
+TSOP-I-32_12.4x8mm_P0.5mm
+TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+32
+32
+Package_SO
+TSOP-I-32_14.4x8mm_P0.5mm
+TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+32
+32
+Package_SO
+TSOP-I-32_16.4x8mm_P0.5mm
+TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+32
+32
+Package_SO
+TSOP-I-32_18.4x8mm_P0.5mm
+TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+32
+32
+Package_SO
+TSOP-I-40_12.4x10mm_P0.5mm
+TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+40
+40
+Package_SO
+TSOP-I-40_14.4x10mm_P0.5mm
+TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+40
+40
+Package_SO
+TSOP-I-40_16.4x10mm_P0.5mm
+TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+40
+40
+Package_SO
+TSOP-I-40_18.4x10mm_P0.5mm
+TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+40
+40
+Package_SO
+TSOP-I-48_12.4x12mm_P0.5mm
+TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+48
+48
+Package_SO
+TSOP-I-48_14.4x12mm_P0.5mm
+TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+48
+48
+Package_SO
+TSOP-I-48_16.4x12mm_P0.5mm
+TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+48
+48
+Package_SO
+TSOP-I-48_18.4x12mm_P0.5mm
+TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DD), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+48
+48
+Package_SO
+TSOP-I-56_14.4x14mm_P0.5mm
+TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+56
+56
+Package_SO
+TSOP-I-56_16.4x14mm_P0.5mm
+TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+56
+56
+Package_SO
+TSOP-I-56_18.4x14mm_P0.5mm
+TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+56
+56
+Package_TO_SOT_SMD
+SOT-23-3
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+custom
+12864-DISP-I2C
+
+
+0
+8
+5
+custom
+12864-DISP-SPI
+
+
+0
+11
+8
+custom
+AHI050-TH
+
+
+0
+8
+8
+custom
+CHIPLED_0603
+<b>CHIPLED</b><p>
+Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf
+0
+0
+0
+2
+2
+custom
+CR50x0 SMD Inductor
+0
+0
+0
+2
+2
+custom
+CRYSTAL-SMD-3.2X2.5MM
+0
+0
+0
+
+0
+4
+4
+0
+0
+0
+
+0
+4
+4
+0
+0
+0
+
+0
+18
+4
+0
+0
+0
+
+0
+4
+4
+0
+0
+0
+
+0
+16
+16
+0
+0
+0
+
+0
+20
+20
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
+inductor smd
+0
+2
+2
+0
+0
+0
+
+0
+9
+9
+0
+0
+0
+<p>Silkscreen logo for open-source hardware designs.</p>
+<p>Devices using:
+<ul><li>OSHW_LOGO</li></ul></p>
+							
+0
+0
+0
+0
+custom
+PJ-3270
+
+0
+0
+5
+5
+custom
+PQDE6W-Q110
+
+0
+0
+6
+6
+custom
+ProAnt_PRO-OB-440
+ProAnt OnBoard SMD antenna 2400-2500Mhz
+0
+0
+4
+3
+custom
+QFP50P900X900X120-48
+								48-QFP, 0.50 mm pitch, 9.00 mm span, 7.00 X 7.00 X 1.20 mm body
+0
+0
+0
+0
+48
+48
+custom
+0
+0
+0
+0
+14
+14
+custom
+0
+0
+0
+0
+8
+8
+custom
+0
+0
+0
+<ul><li>Pin count: 2</li>
+<li>Pin pitch: 3.5mm/138mil</li>
+</ul></p>
+<p><a href=”https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf”>Datasheet referenced for footprint</a></p>
+0
+0
+0
+							
+
+0
+2
+2
+0
+0
+USB Micro-B receptacle, https://lcsc.com/product-detail/USB-Connectors_XKB-Connectivity-U254-051N-4BH806_C319170.html
+usb micro receptacle
+0
+9
+6
+0
+0
+
+
+0
+4
+4
+0
+0
+
+
+0
+4
+2
+0
+0
+
+
+0
+8
+8
+0
+0

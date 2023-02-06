@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,CP1,CP_Radial_D12.5mm_P5.00mm,119.0,-110.0,-90.0,top
+C2,CP1,CP_Radial_D12.5mm_P5.00mm,119.0,-138.0,-90.0,top
+C3,CP1,CP_Radial_D12.5mm_P5.00mm,119.0,-124.0,-90.0,top
+D1,D,D_DO-41_SOD81_P12.70mm_Horizontal,104.0,-111.3,-90.0,top
+D2,D,D_DO-41_SOD81_P12.70mm_Horizontal,109.0,-111.3,-90.0,top
+D3,D,D_DO-41_SOD81_P12.70mm_Horizontal,109.0,-129.3,-90.0,top
+D4,D,D_DO-41_SOD81_P12.70mm_Horizontal,104.0,-129.3,-90.0,top
+D5,LED,LED_D5.0mm_Clear,133.46,-143.0,0.0,top
+J1,Conn_01x02,WE 691411410002 - 2 Pin Wire-To-Board Terminal Block,57.0,-71.0,0.0,top
+J2,Conn_01x02,WE 691411410002 - 2 Pin Wire-To-Board Terminal Block,57.0,-100.0,0.0,top
+J3,Conn_01x02,WE 691411410002 - 2 Pin Wire-To-Board Terminal Block,57.0,-129.0,0.0,top
+J4,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,113.0,-66.0,0.0,top
+J5,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,128.0,-88.0,0.0,top
+J6,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,143.0,-88.0,0.0,top
+J7,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,128.0,-66.0,0.0,top
+J8,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,143.0,-66.0,0.0,top
+J9,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,113.0,-88.0,0.0,top
+J10,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,143.0,-115.0,0.0,top
+J11,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,131.0,-115.0,0.0,top
+R1,1K,R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,129.0,-136.0,0.0,top
+T1,EI30-15.5,EI30-15.5-TH,84.0,-64.5,-90.0,top
+T2,EI30-15.5,EI30-15.5-TH,84.0,-93.5,90.0,top
+T3,AHI050,AHI050-TH,83.0,-129.0,0.0,top

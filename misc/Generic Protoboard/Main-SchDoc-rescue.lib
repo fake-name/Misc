@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Header_2
+#
+DEF Header_2 P 0 40 Y Y 1 F N
+F0 "P" -300 0 60 H V L BNN
+F1 "Header_2" -300 -400 60 H V L BNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S 300 -300 0 0 0 1 10 f
+X 1 1 -200 -100 200 R 1 70 0 1 P
+X 2 2 -200 -200 200 R 1 70 0 1 P
+ENDDRAW
+ENDDEF
+#
+# Header_3
+#
+DEF Header_3 P 0 40 Y Y 1 F N
+F0 "P" -300 0 60 H V L BNN
+F1 "Header_3" -300 -500 60 H V L BNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S 300 -400 0 0 0 1 10 f
+X 1 1 -200 -100 200 R 1 70 0 1 P
+X 2 2 -200 -200 200 R 1 70 0 1 P
+X 3 3 -200 -300 200 R 1 70 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32 Dev Carrier - R1.kicad_pro",
+    "filename": "ESP32 Ethernet Dev Carrier - R1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -449,8 +449,8 @@
       "Power Supply"
     ],
     [
-      "611ccfe7-e97a-49e5-a559-7817f61cc3be",
-      "Ethernet PHY"
+      "043d767c-89c8-41f6-a880-223f25624d09",
+      "Connectors"
     ]
   ],
   "text_variables": {}

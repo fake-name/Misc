@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Package_SO)(type KiCad)(uri C:/code/kicad/kicad-footprints/Package_SO.pretty)(options "")(descr ""))
+  (lib (name Inductor_SMD)(type KiCad)(uri C:/code/kicad/kicad-footprints/Inductor_SMD.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Package_TO_SOT_THT")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/Package_TO_SOT_THT.pretty")(options "")(descr ""))
+  (lib (name "Connector_Pin")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/Connector_Pin.pretty")(options "")(descr ""))
+  (lib (name "Package_TO_SOT_SMD")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/Package_TO_SOT_SMD.pretty")(options "")(descr ""))
+  (lib (name "Connector_USB")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/Connector_USB.pretty")(options "")(descr ""))
+  (lib (name "Package_DIP")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/Package_DIP.pretty")(options "")(descr ""))
+  (lib (name "LED_THT")(type "KiCad")(uri "C:/code/kicad/kicad-footprints/LED_THT.pretty")(options "")(descr ""))
+  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "${KIPRJMOD}/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+)
